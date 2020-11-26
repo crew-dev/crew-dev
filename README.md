@@ -10,9 +10,9 @@
 
 ### My projects
 
-#### In work
+#### 👨‍💻 In work
 #### ✅ Done
-#### Into the plan
+#### 💬 Into the plan
 
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-232323?style=for-the-badge&logo=VK&logoColor=4A76A8)](https://vk.me/crew_dev)
