@@ -7,4 +7,4 @@
 ![Html](https://img.shields.io/badge/-Css-E44D26?style=for-the-badge&logo=Css)
 ![Css](https://img.shields.io/badge/-Css-0378BD?style=for-the-badge&logo=Css)
 
-### Follow me
+### Мои соц сети
