@@ -3,6 +3,6 @@
 ## Привет! Я Junior Frontend разработчик
 
 Языки и технологии
-![CSS](https://img.shields.io/badge/-CSS-E44D26?style=for-the-badge&logo=CSS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-E44D26?style=for-the-badge&logo=JavaScript)
 
 Follow me
