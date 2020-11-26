@@ -9,5 +9,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=for-the-badge&logo=JavaScript)
 
 ### Социальные сети
-
-### Статистика 
+![Vkontakte](https://img.shields.io/badge/Vkontakte-232323?style=for-the-badge&logo=VK&logoColor=4A76A8)
