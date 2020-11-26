@@ -12,8 +12,9 @@
 
 #### 🔥 In progress 
 1) Экологическая катастрофа 21 века
-<br><br>
-Repository: (https://github.com/crew-dev/ecology-project) 
+<br>
+Repository: (https://github.com/crew-dev/ecology-project)
+<br> 
 Website: (https://crew-dev.github.io/ecology-project/)
 #### ✅ Done
 #### 💬 Into the plan
