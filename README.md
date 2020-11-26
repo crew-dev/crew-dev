@@ -10,7 +10,7 @@
 
 ### My projects
 
-#### 🔥 In progress
+#### [![🔥 In progress](https://vk.me/crew_dev) 
 #### ✅ Done
 #### 💬 Into the plan
 
