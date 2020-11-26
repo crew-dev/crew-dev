@@ -22,4 +22,4 @@ Website: (https://crew-dev.github.io/ecology-project/) <br>
 [![Telegram](https://img.shields.io/badge/Telegram-232323?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/crew_dev)
 [![Instagram](https://img.shields.io/badge/Instagram-232323?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/crew_vlad/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crew-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crew-dev&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
