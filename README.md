@@ -11,7 +11,7 @@
 ### My projects
 
 #### 🔥 In progress 
-1) Экологическая катастрофа 21 века (https://github.com/crew-dev/ecology-project) 
+1) Экологическая катастрофа 21 века — (https://github.com/crew-dev/ecology-project) 
 #### ✅ Done
 #### 💬 Into the plan
 
