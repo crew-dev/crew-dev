@@ -1,9 +1,9 @@
 ![Header](https://github.com/crew-dev/crew-dev/blob/main/assets/line.png)
 
-I'm a junior frontend developer
+## Привет! Я Junior Frontend разработчик
 
 YouTube videos
 
-Languages and tools
-
+Языки и технологии
+![HTML](https://img.shields.io/badge/-<HTML>-<important>)
 Follow me
