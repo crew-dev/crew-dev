@@ -9,6 +9,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=for-the-badge&logo=JavaScript)
 
 ### Социальные сети
-![VK](https://img.shields.io/badge/VK-232323?style=for-the-badge&logo=VK&logoColor=4A76A8)
-![Telegram](https://img.shields.io/badge/Telegram-232323?style=for-the-badge&logo=telegram&logoColor=27A0D9)
-![Instagram](https://img.shields.io/badge/Instagram-232323?style=for-the-badge&logo=instagram&logoColor=B4068E)
+![Vkontakte](https://img.shields.io/badge/Vkontakte-232323?style=for-the-badge&logo=VK&logoColor=4A76A8)](https://vk.me/crew_dev)
+![Telegram](https://img.shields.io/badge/Telegram-232323?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/crew_dev)
+![Instagram](https://img.shields.io/badge/Instagram-232323?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/crew_vlad/)
