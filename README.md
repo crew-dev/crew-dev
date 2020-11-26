@@ -10,3 +10,5 @@
 
 ### Социальные сети
 ![VK](https://img.shields.io/badge/Vkontakte-232323?style=for-the-badge&logo=VK&logoColor=4A76A8)
+![Telegram](https://img.shields.io/badge/Vkontakte-232323?style=for-the-badge&logo=telegram&logoColor=27A0D9)
+![Instagram](https://img.shields.io/badge/Vkontakte-232323?style=for-the-badge&logo=instagram&logoColor=B4068E)
