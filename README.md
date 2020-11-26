@@ -1,4 +1,4 @@
-![Header](https://github.com/crew-dev/crew-dev/blob/main/assets/line.png)
+![Header](https://github.com/crew-dev/crew-dev/blob/main/assets/web.gif)
 
 ## Привет! Я Junior Frontend разработчик
 
