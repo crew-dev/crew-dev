@@ -10,7 +10,7 @@
 
 ### My projects
 
-#### 👨‍💻 In work
+#### 👨‍💻 In progress
 #### ✅ Done
 #### 💬 Into the plan
 
