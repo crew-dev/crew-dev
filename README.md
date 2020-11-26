@@ -10,7 +10,8 @@
 
 ### My projects
 
-#### 🔥 In progress (https://vk.me/crew_dev) 
+#### 🔥 In progress 
+1. Ecology-project (https://github.com/crew-dev/ecology-project) 
 #### ✅ Done
 #### 💬 Into the plan
 
