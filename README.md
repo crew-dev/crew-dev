@@ -4,7 +4,7 @@
 
 ### Языки и технологии
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=for-the-badge&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-0378BD?style=for-the-badge&logo=CSS)
+![Html](https://img.shields.io/badge/-Css-E44D26?style=for-the-badge&logo=Css)
+![Css](https://img.shields.io/badge/-Css-0378BD?style=for-the-badge&logo=Css)
 
 Follow me
