@@ -2,7 +2,7 @@
 
 ## Привет! Я Junior Frontend разработчик
 
-Языки и технологии
+### Языки и технологии
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=for-the-badge&logo=JavaScript)
 
 Follow me
