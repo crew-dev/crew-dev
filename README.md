@@ -11,11 +11,12 @@
 ### My projects
 
 #### 🔥 In progress 
+#### ✅ Done
 1) Экологическая катастрофа 21 века <br>
 Repository: (https://github.com/crew-dev/ecology-project) <br> 
 Website: (https://crew-dev.github.io/ecology-project/) <br>
-#### ✅ Done
 #### 💬 Into the plan
+Coming soon...
 
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-232323?style=for-the-badge&logo=VK&logoColor=4A76A8)](https://vk.me/crew_dev)
