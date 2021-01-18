@@ -4,7 +4,7 @@
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-232323?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/CSS-232323?style=for-the-badge&logo=CSS)
+![SCSS](https://img.shields.io/badge/SCSS-232323?style=for-the-badge&logo=SCSS)
 ![jQuery](https://img.shields.io/badge/-jQuery-232323?style=for-the-badge&logo=jQuery)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=for-the-badge&logo=JavaScript)
 
