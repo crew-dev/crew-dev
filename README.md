@@ -9,9 +9,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=for-the-badge&logo=JavaScript)
 
 ### My projects
-1. Cinema+ | Онлайн кинотеатр 
+
 #### 🔥 In progress 
-1) 
+1. Cinema+ | Онлайн кинотеатр 
 #### ✅ Done
 1. Экологическая катастрофа 21 века <br>
 Repository: (https://github.com/crew-dev/ecology-project) <br> 
