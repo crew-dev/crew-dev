@@ -11,13 +11,12 @@
 ### My projects
 
 #### 🔥 In progress 
-1. Cinema+ | Онлайн кинотеатр 
+
 #### ✅ Done
 1. Экологическая катастрофа 21 века <br>
 Repository: (https://github.com/crew-dev/ecology-project) <br> 
 Website: (https://crew-dev.github.io/ecology-project/) <br>
 #### 💬 Into the plan
-1. LifeProgress | Отслеживание достижений и целей
 
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-232323?style=for-the-badge&logo=VK&logoColor=4A76A8)](https://vk.me/crew_dev)
