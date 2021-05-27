@@ -13,12 +13,6 @@
 #### 🔥 In progress 
 
 #### ✅ Recently Work
-1. Экологическая катастрофа 21 века <br>
-Repository: (https://github.com/crew-dev/ecology-project) <br> 
-Website: (https://crew-dev.github.io/ecology-project/) <br>
-2. Arency Store | Магазин стильной одежды
-Repository: (https://github.com/crew-dev/arency-store) <br> 
-Website: (https://crew-dev.github.io/arency-store/) <br>
 
 #### 💬 Into the plan
 
